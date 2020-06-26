@@ -14,7 +14,7 @@ I am a Staff Engineer in [Samsung Research](http://research.samsung.com), Seoul,
   - Advisor: Prof. [Lei Wang](https://scholar.google.com/citations?user=4Jr8AHQAAAAJ&hl=en)
 
 ### Research Interests
--4G/5G/6G networks
+-5G networks
 -Wi-Fi CSI based passive sensing  
 -MAC/PHY enhancement of Wi-Fi, Bluetooth, BLE
  
