@@ -1,6 +1,6 @@
 # Weiping Sun
 
-I am a Staff Engineer in [Samsung Research](http://research.samsung.com), Seoul, S. Korea. Prof. 
+I am a Staff Engineer in [Samsung Research](http://research.samsung.com), Seoul, S. Korea
 
 ### Contact
 - Email: wpsun319@gmail.com
