@@ -15,9 +15,9 @@ I am a Staff Engineer in [Samsung Research](http://research.samsung.com), Seoul,
 
 ### Research Interests
 
-- 5G networks
-- Wi-Fi CSI based passive sensing  
-- MAC/PHY enhancement of Wi-Fi, Bluetooth, BLE
+- Cellular, WLAN, WPAN improvements
+- RF based passive sensing  
+- Coexistence between heterogeneous networks
  
 ### Publications (in the order from the most recent)
 1. **[IEEE SECON]** Kangjin Yoon, Weiping Sun, and Sunghyun Choi, "COALA: Collision-Aware Link Adaptation for LTE in Unlicensed Band," _IEEE SECON 2018_, Hong Kong, June 11-13, 2018. (Acceptance ratio: 23.2% = 49/211)
