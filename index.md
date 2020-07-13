@@ -9,7 +9,7 @@ I am a Staff Engineer in [Samsung Research](http://research.samsung.com), Seoul,
 - Postdoc in [Nanyang Technological University (NTU)](https://ntu.edu.sg/) from May 2018 to May 2020
   - Advisor: Prof. [Mo Li](https://www.ntu.edu.sg/home/limo/)
 - PhD from [Seoul National University (SNU)](https://en.snu.ac.kr/) in Feb. 2017
-  - Advisor: Dr. [Sunghyun Choi](http://www.mwnl.snu.ac.kr/~schoi/) (moved to Samsung)
+  - Advisor: Dr. [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) (moved to Samsung)
 - BS from [Dalian University of Technology (DUT)](http://en.dlut.edu.cn/) in Sep. 2010
   - Advisor: Prof. [Lei Wang](https://scholar.google.com/citations?user=4Jr8AHQAAAAJ&hl=en)
 
