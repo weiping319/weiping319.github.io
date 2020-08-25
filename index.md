@@ -1,6 +1,6 @@
 # Weiping Sun
 
-I am a staff engineer in [Samsung Research](http://research.samsung.com), working on the [next generation communication system](https://news.samsung.com/global/samsungs-6g-white-paper-lays-out-the-companys-vision-for-the-next-generation-of-communications-technology)
+I am a staff engineer in [Samsung Research](http://research.samsung.com), working on the [next generation communication system](https://news.samsung.com/global/samsungs-6g-white-paper-lays-out-the-companys-vision-for-the-next-generation-of-communications-technology). Prior to joining Samsung, I was a postdoc research fellow in Nanyang Technological University (NTU), Singapore, working with Prof. Mo Li. I received Ph.D. degree in 2017 from Seoul National University (SNU), under the supervision of Dr. Sunghyun Choi. His current research interests include WLAN, WPAN, 6G cellular networks, RF sensing, and the coexistence among heterogeneous wireless networks.
 
 ### Contact
 - Email: wp.son@samsung.com
@@ -50,6 +50,6 @@ I am a staff engineer in [Samsung Research](http://research.samsung.com), workin
 - Reviewer
   - VTC, Comm. Letters, Wireless Comm. Magazine, Adhoc and Sensor Wireless Networks, Computer Networks
 - Organizing Committee
-  - TPC member: IEEE VTC 2018, IEEE DySPAN 2018, IEEE DySPAN 2019, IEEE WCNC 2019, ICOIN 2020, IEEE WCNC 2020  
+  - TPC member: IEEE VTC 2018, IEEE DySPAN (2018, 2019), IEEE WCNC (2019, 2020, 2021), ICOIN 2020, ICTC 2020
   - Publicity Co-Chair: SNCC 2016
   
