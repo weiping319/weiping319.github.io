@@ -1,6 +1,6 @@
 # Weiping Sun
 
-I am a staff engineer in [Samsung Research](http://research.samsung.com), working on the [next generation communication system](https://news.samsung.com/global/samsungs-6g-white-paper-lays-out-the-companys-vision-for-the-next-generation-of-communications-technology). Prior to joining Samsung, I was a postdoc research fellow in Nanyang Technological University (NTU), Singapore, working with Prof. Mo Li. I received Ph.D. degree in 2017 from Seoul National University (SNU), under the supervision of Dr. Sunghyun Choi. His current research interests include WLAN, WPAN, 6G cellular networks, RF sensing, and the coexistence among heterogeneous wireless networks.
+I am a staff engineer in [Samsung Research](http://research.samsung.com), working on the [next generation communication system](https://news.samsung.com/global/samsungs-6g-white-paper-lays-out-the-companys-vision-for-the-next-generation-of-communications-technology). Prior to joining Samsung, I was a postdoc research fellow in Nanyang Technological University (NTU), Singapore, working with Prof. Mo Li. I received Ph.D. degree in 2017 from Seoul National University (SNU), under the supervision of Dr. Sunghyun Choi. Current research interests include WLAN, WPAN, 6G cellular networks, RF sensing, and the coexistence among heterogeneous wireless networks.
 
 ### Contact
 - Email: wp.son@samsung.com
