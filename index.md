@@ -1,6 +1,6 @@
 # Weiping Sun
 
-I am a Staff Engineer in [Samsung Research](http://research.samsung.com), working on the next generation communication system, namely [6G](https://news.samsung.com/global/samsungs-6g-white-paper-lays-out-the-companys-vision-for-the-next-generation-of-communications-technology)
+I am a staff engineer in [Samsung Research](http://research.samsung.com), working on the [next generation communication system](https://news.samsung.com/global/samsungs-6g-white-paper-lays-out-the-companys-vision-for-the-next-generation-of-communications-technology)
 
 ### Contact
 - Email: wp.son@samsung.com
