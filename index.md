@@ -1,21 +1,21 @@
 # Weiping Sun
 
-I am a Staff Engineer in [Samsung Research](http://research.samsung.com), Seoul, S. Korea
+I am a Staff Engineer in [Samsung Research](http://research.samsung.com), working on the next generation communication system, namely [6G] (https://news.samsung.com/global/samsungs-6g-white-paper-lays-out-the-companys-vision-for-the-next-generation-of-communications-technology)
 
 ### Contact
-- Email: wpsun319@gmail.com
+- Email: wp.son@samsung.com
 
 ### Employment 
-- Postdoc, [Nanyang Technological University (NTU)](https://ntu.edu.sg/), from May 2018 to May 2020
+- Postdoc, [Nanyang Technological University (NTU)](https://ntu.edu.sg/), May 2018 - May 2020
   - Advisor: Prof. [Mo Li](https://www.ntu.edu.sg/home/limo/)
-- Postdoc, [Seoul National University (SNU)](https://en.snu.ac.kr/), from May 2017 to March 2018
+- Postdoc, [Seoul National University (SNU)](https://en.snu.ac.kr/), May 2017 - March 2018
   - Advisor: Dr. [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home)
   
 
 ### Education 
-- Ph.D. from [Seoul National University (SNU)](https://en.snu.ac.kr/) in Feb. 2017
+- Ph.D., [Seoul National University (SNU)](https://en.snu.ac.kr/), Feb. 2017
   - Advisor: Dr. [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home)
-- BS from [Dalian University of Technology (DUT)](http://en.dlut.edu.cn/) in Sep. 2010
+- B.S., [Dalian University of Technology (DUT)](http://en.dlut.edu.cn/), Sep. 2010
   - Advisor: Prof. [Lei Wang](https://scholar.google.com/citations?user=4Jr8AHQAAAAJ&hl=en)
 
 ### Research Interests
