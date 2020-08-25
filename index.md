@@ -5,18 +5,23 @@ I am a Staff Engineer in [Samsung Research](http://research.samsung.com), Seoul,
 ### Contact
 - Email: wpsun319@gmail.com
 
-### Education 
-- Postdoc in [Nanyang Technological University (NTU)](https://ntu.edu.sg/) from May 2018 to May 2020
+### Employment 
+- Postdoc, [Nanyang Technological University (NTU)](https://ntu.edu.sg/), from May 2018 to May 2020
   - Advisor: Prof. [Mo Li](https://www.ntu.edu.sg/home/limo/)
-- PhD from [Seoul National University (SNU)](https://en.snu.ac.kr/) in Feb. 2017
-  - Advisor: Dr. [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) (moved to Samsung)
+- Postdoc, [Seoul National University (SNU)](https://en.snu.ac.kr/), from May 2017 to March 2018
+  - Advisor: Dr. [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home)
+  
+
+### Education 
+- Ph.D. from [Seoul National University (SNU)](https://en.snu.ac.kr/) in Feb. 2017
+  - Advisor: Dr. [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home)
 - BS from [Dalian University of Technology (DUT)](http://en.dlut.edu.cn/) in Sep. 2010
   - Advisor: Prof. [Lei Wang](https://scholar.google.com/citations?user=4Jr8AHQAAAAJ&hl=en)
 
 ### Research Interests
 
-- Cellular, WLAN, WPAN improvements
-- RF based passive sensing  
+- Cellular, WLAN, WPAN
+- RF based sensing  
 - Coexistence between heterogeneous networks
  
 ### Publications (in the order from the most recent)
