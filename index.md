@@ -12,7 +12,7 @@ I'm a staff engineer at [Samsung Research](http://research.samsung.com), Seoul, 
 
 ### Education 
 - Ph.D. in Electrical and Computer Engineering, [SNU](https://en.snu.ac.kr/), Feb. 2017
-- B.S. in Network Engineering, [DLUT](http://en.dlut.edu.cn/), Sep. 2010
+- B.S. in Network Engineering, [DUT](http://en.dlut.edu.cn/), Sep. 2010
 
 ### Research Interests
 
