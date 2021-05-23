@@ -1,22 +1,18 @@
 # Weiping Sun
 
-I am a staff engineer at [Samsung Research](http://research.samsung.com), Seoul, working on the [next generation communication system](https://news.samsung.com/global/samsungs-6g-white-paper-lays-out-the-companys-vision-for-the-next-generation-of-communications-technology). Prior to joining Samsung, I was a postdoc research fellow in Nanyang Technological University (NTU), Singapore, working with Prof. Mo Li. I received Ph.D. degree in 2017 from Seoul National University (SNU), under the supervision of Dr. Sunghyun Choi. Current research interests include WLAN, WPAN, 6G cellular networks, RF sensing, and the coexistence among heterogeneous wireless networks.
-
+I'm a staff engineer at [Samsung Research](http://research.samsung.com), Seoul, working on the [next generation communication system](https://news.samsung.com/global/samsungs-6g-white-paper-lays-out-the-companys-vision-for-the-next-generation-of-communications-technology). Before joining Samsung, I was a postdoc research fellow in Nanyang Technological University (NTU), Singapore, working with Prof. [Mo Li](https://www.ntu.edu.sg/home/limo/). I received Ph.D. degree in 2017 at Seoul National University (SNU), under the supervision of Dr. [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home).
 ### Contact
 - Email: wp.son@samsung.com
 
 ### Employment 
-- Postdoc, [Nanyang Technological University (NTU)](https://ntu.edu.sg/), May 2018 - May 2020
-  - Advisor: Prof. [Mo Li](https://www.ntu.edu.sg/home/limo/)
-- Postdoc, [Seoul National University (SNU)](https://en.snu.ac.kr/), May 2017 - March 2018
-  - Advisor: Dr. [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home)
+- Staff Engineer, [Samsung Research](http://research.samsung.com), June 2020 forward
+- Postdoc, [NTU](https://ntu.edu.sg/), May 2018 - May 2020
+- Postdoc, [SNU](https://en.snu.ac.kr/), May 2017 - March 2018
   
 
 ### Education 
-- Ph.D., [Seoul National University (SNU)](https://en.snu.ac.kr/), Feb. 2017
-  - Advisor: Dr. [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home)
-- B.S., [Dalian University of Technology (DUT)](http://en.dlut.edu.cn/), Sep. 2010
-  - Advisor: Prof. [Lei Wang](https://scholar.google.com/citations?user=4Jr8AHQAAAAJ&hl=en)
+- Ph.D. in Electrical and Computer Engineering, [SNU](https://en.snu.ac.kr/), Feb. 2017
+- B.S. in Network Engineering, [DLUT](http://en.dlut.edu.cn/), Sep. 2010
 
 ### Research Interests
 
